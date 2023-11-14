@@ -1,1 +1,1 @@
-# internship-projects-
+# codsoft-projects-
